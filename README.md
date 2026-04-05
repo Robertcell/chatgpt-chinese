@@ -1,5 +1,5 @@
-# ChatGPT中文版 | 国内直接访问指南（支持GPT-4，GPT4o，GPT o1）【2025年1月更新】
->**更新时间：2025年1月17日**
+# ChatGPT中文版 | 国内直接访问指南（支持GPT-5.4，GPT5，GPT o1）【2026年4月更新】
+>**更新时间：2026年4月5日**
 
 ## **目录**
 1. [什么是ChatGPT中文版镜像网站？](#什么是chatgpt中文版镜像网站)
@@ -29,9 +29,9 @@ ChatGPT 中文版 是 OpenAI 的 ChatGPT 模型的优化版本，特别为国内
 
 | 网站名称 | 支持特点 | 访问链接 |
 |----------|----------|----------|
-| 易下AI | 支持GPT-4.0、GPT o1、AI绘画 | [易下AI](https://www.yixiaai.com) |
-| Lify.Chat | 支持GPT-4.0、GPT-4.0 turbo、GPT o1、AI PPT、插件 | [Lify.Chat](https://chat.lify.vip) |
-| 蓝鲸指南 | 支持GPT全系列模型 | [蓝鲸指南](https://guide1.lanjing.ai) |
+| LazymanAI | 支持GPT-4.0、GPT o1、AI绘画 | [易下AI](https://www.lazymanchat.com) |
+| XSimple.Chat | 支持GPT-4.0、GPT-4.0 turbo、GPT o1、AI PPT、插件 | [xsimplechat.com](https://xsimplechat.com) |
+| 火鸦指南 | 支持GPT全系列模型 | [蓝鲸指南](https://huoyachat.com) |
 | 智易AI | 支持GPT-4.0、GPT-4.0 turbo、AI文件生成 | [智易AI](https://www.zhiyi.ai) |
 | 灵动智能 | 支持GPT-4.0、GPT4o、GPT o1、AI数据分析 | [灵动智能](https://www.lingdongai.com) |
 
@@ -66,7 +66,7 @@ ChatGPT 中文版 是 OpenAI 的 ChatGPT 模型的优化版本，特别为国内
 
 **1. 访问你选择的镜像网站**
 
-例如：[易下AI](https://www.yixiaai.com)
+例如：[LazymanAI](https://lazymanchat.com)
 
 **2. 注册账户**
 
@@ -88,7 +88,7 @@ ChatGPT 中文版 是 OpenAI 的 ChatGPT 模型的优化版本，特别为国内
 是的，镜像站通常会基于使用时间和服务类型收费。
 
 ### **Q2: 镜像站是否安全？**
-选择信誉良好的镜像站，例如[易下AI](https://www.yixiaai.com)，可以显著提高安全性。
+选择信誉良好的镜像站，例如[LazymanAI](https://lazymanchat.com)，可以显著提高安全性。
 
 ### **Q3: 如何选择合适的镜像站？**
 根据你的需求和预算，查看各镜像站的功能支持和用户反馈。
